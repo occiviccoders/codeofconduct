@@ -3,6 +3,8 @@ codeofconduct
 
 #### Code for America's Code of Conduct
 
+This document is forked from the <a href="https://github.com/codeforamerica/codeofconduct">The Code for America Code of Conduct</a>.
+
 The Code for America community expects that Code for America network activities, events, and digital forums:
 
 1. Are a safe and respectful environment for all participants.
@@ -48,9 +50,11 @@ We value your attendance and hope that by communicating these expectations widel
 
 #### Email Template for Anti-Harassment Reporting
 
+TO: occiviccoder@gmail.com
+
 SUBJECT: Safe Space alert at [EVENT NAME]
 
-I am writing because of harassment at a Code for America Communities event, (NAME, PLACE, DATE OF EVENT). 
+I am writing because of harassment at a OC Civic Coders Communities event, (NAME, PLACE, DATE OF EVENT). 
 
 You can reach me at (CONTACT INFO). Thank you.
 
